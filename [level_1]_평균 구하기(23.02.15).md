@@ -51,4 +51,4 @@ class Solution {
 ```
 
 배열 arr을 for문으로 double 타입의 sum에 더해주고, 해당 sum을 arr의 길이만큼 나누어줌  
-sum값이 실수가 나올수도 있으므로 double 타입으로 선언해준것
+sum값이 실수가 나올수도 있으므로 double 타입으로 선언해준것  
